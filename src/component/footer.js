@@ -10,16 +10,16 @@ const Footer = ()=>{
                 <div class="col-3 text-center ">
 
                     <div class="row justify-content-center py-2">
-                        <h6><p>Menú</p></h6>
+                        <h6><p>Menu</p></h6>
                     </div>
                     <div class="row justify-content-center py-2">
                         Home
                     </div>
                     <div class="row justify-content-center py-2">
-                        Materiales
+                        items
                     </div>
                     <div class="row justify-content-center py-2">
-                        Servicios
+                        Services
                     </div>
                     
                 </div>
@@ -42,16 +42,16 @@ const Footer = ()=>{
                 <div class="col-3 text-center">
 
                         <div class="row justify-content-center py-2">
-                            <h6><p>Contactos</p></h6>
+                            <h6><p>Contacts</p></h6>
                         </div>
                         <div class="row justify-content-center py-2">
-                            0414xxxxxxx
+                            0414-1234567
                         </div>
                         <div class="row justify-content-center py-2">
-                            0414xxxxxxx
+                            0414-1234567
                         </div>
                         <div class="row justify-content-center py-2">
-                            0414xxxxxxx
+                            0414-1234567
                         </div>
                         
                 </div>
@@ -62,10 +62,10 @@ const Footer = ()=>{
                         </div>
 
                         <div class="row justify-content-center py-2">
-                            Acceso
+                            Access
                         </div>
                         <div class="row justify-content-center py-2">
-                            Registro
+                            Register
                         </div>
                         <div class="row justify-content-center py-2">
                             
@@ -76,7 +76,7 @@ const Footer = ()=>{
 
             <div class="row justify-content-center">
                 <div class="col-6 text-center pt-5">
-                <p> Copyright © 2021 FERRELÉCTRICA & SERV., C.A. RIF J-50063793-9</p>
+                <p> Copyright © 2021 COMPANY & SERV., C.A. RIF J-1234567-8</p>
                 </div>
             </div>
 
