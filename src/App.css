@@ -1,0 +1,112 @@
+  /*--------------------------------------------------------------------------------------------*/
+   /*------------------sideBar -----------------------*/
+ .sideBar{
+    width: 13%;
+    background-color: #212529;
+    height: 92vh;
+    display: flex;
+    
+    flex-direction: column;
+    position: fixed;
+ }
+
+ .sideBar-block{
+    height: 9vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+ }
+
+ /*--------------------------------------------------------------------------------------------*/
+                        /*------------------orders -----------------------*/
+   .order{
+   margin-top: 5%;
+   margin-bottom: 5%;
+   box-shadow: 0px 10px 10px -6px black;
+   }
+
+
+.order-header{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: row;
+ }
+.order-header div{
+    width: 33.33%;
+
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: row;
+ }
+
+ /*---------------------------*/
+
+ .order-body{
+   display: flex;
+   flex-wrap: wrap;
+ }
+
+ .order-item{
+   width: 20%;
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   flex-direction: column;
+ }
+
+/*----------------------------------------------------------------------------------------------------*/
+.addItem-main-container{
+   width: 100%;
+   min-height: 90vh;
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   flex-direction: column;
+}
+.addItem-form-container{
+   width: 40%;
+   margin: 5%;
+  
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   flex-direction: column;
+   box-shadow: 0px 10px 10px -6px black;
+}
+
+.addItem-form-container form{
+   width:90%;
+   margin: 5%;
+  
+}
+
+ /*---------------------------*/
+ 
+.updateItem-main-container{
+   width: 100%;
+   min-height: 90vh;
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   flex-direction: column;
+}
+.updateItem-form-container{
+   width: 40%;
+   margin: 5%;
+  
+   display: flex;
+   justify-content:center;
+   align-items:center;
+   flex-direction: column;
+   box-shadow: 0px 10px 10px -6px black;
+}
+
+.updateItem-form-container form{
+   width:90%;
+   margin: 5%;
+  
+}
